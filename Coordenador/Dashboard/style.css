@@ -118,12 +118,15 @@ main {
     margin-top: -5px;
 }
 
+#direita {
+    margin-top: 200px;
+    margin-left: 130px; 
+}
+
 /* Caroussel */
 .carousel-container {
     width: 470px;
     overflow: hidden;
-    margin-top: 200px;
-    margin-left: 100px; 
     border-radius: 10px;
     background: #D9D9D9;
     box-shadow: 0px 15px 40px 0px rgba(0, 0, 0, 0.25);
@@ -144,7 +147,7 @@ main {
 .carousel-indicators {
     text-align: center;
     margin-top: 10px;
-    margin-left: 100px;
+    
 }
 
 .indicator {
