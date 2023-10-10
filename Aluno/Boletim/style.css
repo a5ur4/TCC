@@ -23,7 +23,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 135px;
+    padding: 10px 135px;
 }
 
 .logo a {
